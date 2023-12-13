@@ -1,0 +1,5 @@
+/mnt/c/Users/asase/OneDrive/Desktop/University/Advanced Programming Concepts/Allocators/cmake-build-debug/CMakeFiles/Allocators.dir
+/mnt/c/Users/asase/OneDrive/Desktop/University/Advanced Programming Concepts/Allocators/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/asase/OneDrive/Desktop/University/Advanced Programming Concepts/Allocators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/asase/OneDrive/Desktop/University/Advanced Programming Concepts/Allocators/cmake-build-debug/custom_alloc_lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/asase/OneDrive/Desktop/University/Advanced Programming Concepts/Allocators/cmake-build-debug/custom_alloc_lib/CMakeFiles/rebuild_cache.dir
